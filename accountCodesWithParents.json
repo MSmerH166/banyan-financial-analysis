@@ -1,0 +1,1962 @@
+[
+  {
+    "code": "01",
+    "name": "الاصول المتداولة",
+    "level": 1,
+    "isPosting": false,
+    "parentCode": null
+  },
+  {
+    "code": "0101",
+    "name": "البنوك",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "01"
+  },
+  {
+    "code": "010101",
+    "name": "حسابات البنوك",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0101"
+  },
+  {
+    "code": "01010101",
+    "name": "مصرف الانماء",
+    "level": 4,
+    "isPosting": false,
+    "parentCode": "010101"
+  },
+  {
+    "code": "0101010101",
+    "name": "مصرف الانماء 68200000071000",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010101"
+  },
+  {
+    "code": "0101010102",
+    "name": "مصرف الانماء 68200000071001",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010101"
+  },
+  {
+    "code": "01010102",
+    "name": "مصرف الراجحى",
+    "level": 4,
+    "isPosting": false,
+    "parentCode": "010101"
+  },
+  {
+    "code": "0101010201",
+    "name": "مصرف الراجحى 521608010111995",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010102"
+  },
+  {
+    "code": "0101010202",
+    "name": "مصرف الراجحى 375608010001177",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010102"
+  },
+  {
+    "code": "01010103",
+    "name": "بنك الرياض",
+    "level": 4,
+    "isPosting": false,
+    "parentCode": "010101"
+  },
+  {
+    "code": "0101010301",
+    "name": "بنك الرياض 001000698249940",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010103"
+  },
+  {
+    "code": "0101010302",
+    "name": "وسيط بنك الرياض",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010103"
+  },
+  {
+    "code": "01010104",
+    "name": "البنك الاهلى",
+    "level": 4,
+    "isPosting": false,
+    "parentCode": "010101"
+  },
+  {
+    "code": "0101010401",
+    "name": "البنك الاهلى 065900000713108",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010104"
+  },
+  {
+    "code": "0101010402",
+    "name": "البنك الاهلى فرعى  1806",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010104"
+  },
+  {
+    "code": "0101010403",
+    "name": "البنك الاهلى فرعى  8901",
+    "level": 5,
+    "isPosting": true,
+    "parentCode": "01010104"
+  },
+  {
+    "code": "010102",
+    "name": "ضمانات البنكية-100% غطاء نقدي",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0101"
+  },
+  {
+    "code": "01010201",
+    "name": "ضمان بنكى - مصرف الانماء",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010102"
+  },
+  {
+    "code": "01010202",
+    "name": "ضمان بنكى - بنك الرياض",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010102"
+  },
+  {
+    "code": "010103",
+    "name": "تامين ضمانات - تسهيلات البنوك",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0101"
+  },
+  {
+    "code": "01010301",
+    "name": "تامين ضمانات - بنك الرياض",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010103"
+  },
+  {
+    "code": "01010302",
+    "name": "تامين ضمانات - البنك الاهلى",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010103"
+  },
+  {
+    "code": "0102",
+    "name": "العملاء",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "01"
+  },
+  {
+    "code": "010201",
+    "name": "01 العملاء",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0102"
+  },
+  {
+    "code": "0103",
+    "name": "ضمان حسن التنفيذ لدى العملاء",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "01"
+  },
+  {
+    "code": "010301",
+    "name": "ضمان تأمين أعمال لدى العملاء",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0103"
+  },
+  {
+    "code": "0104",
+    "name": "العهد",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "01"
+  },
+  {
+    "code": "010401",
+    "name": "العهدة الجارية",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0104"
+  },
+  {
+    "code": "01040101",
+    "name": "عهدة - المنطقة الشرقية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010401"
+  },
+  {
+    "code": "01040102",
+    "name": "عهدة - منطقة الرياض",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010401"
+  },
+  {
+    "code": "01040103",
+    "name": "عهدة - مصنع الالمونيوم",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010401"
+  },
+  {
+    "code": "01040104",
+    "name": "عهدة - شفيق الخواجة",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010401"
+  },
+  {
+    "code": "01040105",
+    "name": "عهدة - شئون الموظفين",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010401"
+  },
+  {
+    "code": "010402",
+    "name": "العهدة المستديمة",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0104"
+  },
+  {
+    "code": "01040201",
+    "name": "عهدة مستديمة - المنطقة الشرقية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010402"
+  },
+  {
+    "code": "01040202",
+    "name": "عهدة مستديمة - منطقة الرياض",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010402"
+  },
+  {
+    "code": "01040203",
+    "name": "عهدة مستديمة - مصنع الالمونيوم",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010402"
+  },
+  {
+    "code": "0105",
+    "name": "ذمم الموظفين",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "01"
+  },
+  {
+    "code": "010501",
+    "name": "ذمم الموظفين",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "01"
+  },
+  {
+    "code": "0106",
+    "name": "المخزون",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "01"
+  },
+  {
+    "code": "010601",
+    "name": "المخزون",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "01"
+  },
+  {
+    "code": "0107",
+    "name": "مدينون متنوعون",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "01"
+  },
+  {
+    "code": "010701",
+    "name": "تامينات لدى الغير",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0107"
+  },
+  {
+    "code": "01070101",
+    "name": "تامينات لدى الغير",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010701"
+  },
+  {
+    "code": "010702",
+    "name": "دفعات مقدمة مقاولين",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0107"
+  },
+  {
+    "code": "0108",
+    "name": "اوراق قبض وشيكات تحت التحصيل",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "01"
+  },
+  {
+    "code": "010801",
+    "name": "اوراق قبض",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0108"
+  },
+  {
+    "code": "010802",
+    "name": "شيكات تحت التحصيل",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0108"
+  },
+  {
+    "code": "0109",
+    "name": "أصول متداولة أخرى",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "01"
+  },
+  {
+    "code": "010901",
+    "name": "مصروفات مقدمة",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0109"
+  },
+  {
+    "code": "01090101",
+    "name": "مصروفات مقدمة - ايجارات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010901"
+  },
+  {
+    "code": "01090102",
+    "name": "مصروفات مقدمة - عمولة تسهيلات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010901"
+  },
+  {
+    "code": "010902",
+    "name": "ايرادات مستحقة",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0109"
+  },
+  {
+    "code": "01090201",
+    "name": "ايرادات مستحقة غير مفوترة",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "010902"
+  },
+  {
+    "code": "010903",
+    "name": "كروت ائتمان /فيزا",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0109"
+  },
+  {
+    "code": "02",
+    "name": "الاصول الثابتة",
+    "level": 1,
+    "isPosting": false,
+    "parentCode": null
+  },
+  {
+    "code": "0201",
+    "name": "الاصول الثابته",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "02"
+  },
+  {
+    "code": "020101",
+    "name": "السيارات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0201"
+  },
+  {
+    "code": "020102",
+    "name": "الالات والمعدات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0201"
+  },
+  {
+    "code": "020103",
+    "name": "الاخشاب المرابيع",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0201"
+  },
+  {
+    "code": "020104",
+    "name": "المكاتب الجاهزة",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0201"
+  },
+  {
+    "code": "020105",
+    "name": "أجهزة الكمبيوتر والطابعات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0201"
+  },
+  {
+    "code": "020106",
+    "name": "الأثاث والمفروشات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0201"
+  },
+  {
+    "code": "020107",
+    "name": "الديكورات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0201"
+  },
+  {
+    "code": "020108",
+    "name": "الشدة المعدنية",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0201"
+  },
+  {
+    "code": "03",
+    "name": "الخصوم المتداولة",
+    "level": 1,
+    "isPosting": false,
+    "parentCode": null
+  },
+  {
+    "code": "0301",
+    "name": "الموردين",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "03"
+  },
+  {
+    "code": "030101",
+    "name": "02 الموردين",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0301"
+  },
+  {
+    "code": "0302",
+    "name": "المقاولين",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "03"
+  },
+  {
+    "code": "030201",
+    "name": "03 المقاولين",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0302"
+  },
+  {
+    "code": "0303",
+    "name": "ضمان حسن التنفيذ للمقاولين",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "03"
+  },
+  {
+    "code": "030301",
+    "name": "ضمان حسن التنفيذ للمقاولين",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "03"
+  },
+  {
+    "code": "0304",
+    "name": "دائنون متنوعون",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "03"
+  },
+  {
+    "code": "030401",
+    "name": "04 المكاتب الهندسية والاستشارية",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0304"
+  },
+  {
+    "code": "0305",
+    "name": "دفعات مقدمة من العملاء",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "03"
+  },
+  {
+    "code": "030501",
+    "name": "دفعات مقدمة من العملاء",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "03"
+  },
+  {
+    "code": "0306",
+    "name": "ضريبة القيمة المضافة",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "03"
+  },
+  {
+    "code": "030601",
+    "name": "ضريبة المشتريات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0306"
+  },
+  {
+    "code": "030602",
+    "name": "ضريبة الإيرادات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0306"
+  },
+  {
+    "code": "030603",
+    "name": "تسوية ضريبة القيمة المضافة",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0306"
+  },
+  {
+    "code": "0307",
+    "name": "أوراق الدفع",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "03"
+  },
+  {
+    "code": "030701",
+    "name": "اوراق الدفع",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "03"
+  },
+  {
+    "code": "0308",
+    "name": "خصوم متداولة أخرى",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "03"
+  },
+  {
+    "code": "030801",
+    "name": "مصروفات مستحقة",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0308"
+  },
+  {
+    "code": "03080101",
+    "name": "مصروفات مستحقة - رواتب",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "030801"
+  },
+  {
+    "code": "03080102",
+    "name": "مصروفات مستحقة - اتعاب مهنية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "030801"
+  },
+  {
+    "code": "03080103",
+    "name": "تسوية مستحقات الموظفين",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "030801"
+  },
+  {
+    "code": "03080104",
+    "name": "مخصص الزكاة وضريبة الدخل",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "030801"
+  },
+  {
+    "code": "03080105",
+    "name": "مصروفات مستحقة - تكلفة التمويل",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "030801"
+  },
+  {
+    "code": "0309",
+    "name": "حسابات وسيطه",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "03"
+  },
+  {
+    "code": "030901",
+    "name": "وسيط أضافة أصول ثابتة",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0309"
+  },
+  {
+    "code": "030902",
+    "name": "تحويلات بين الخزائن",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0309"
+  },
+  {
+    "code": "030903",
+    "name": "تحويلات بين المخازن",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0309"
+  },
+  {
+    "code": "030904",
+    "name": "تسويات بين مراكز التكلفة",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0309"
+  },
+  {
+    "code": "030905",
+    "name": "وسيط خصومات من العملاء",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0309"
+  },
+  {
+    "code": "04",
+    "name": "خصوم طويلة الاجل",
+    "level": 1,
+    "isPosting": false,
+    "parentCode": null
+  },
+  {
+    "code": "0401",
+    "name": "مخصص حقوق الموظفين",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "04"
+  },
+  {
+    "code": "040101",
+    "name": "مخصص بدل الاجازة",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0401"
+  },
+  {
+    "code": "04010101",
+    "name": "مخصص بدل الاجارة",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "040101"
+  },
+  {
+    "code": "040102",
+    "name": "مخصص نهاية الخدمة",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0401"
+  },
+  {
+    "code": "04010201",
+    "name": "مخصص نهاية الخدمة",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "040102"
+  },
+  {
+    "code": "04010202",
+    "name": "مخصص نهاية الخدمة الاكتوارى",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "040102"
+  },
+  {
+    "code": "0402",
+    "name": "مجمع اهلاك الأصول الثابتة",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "04"
+  },
+  {
+    "code": "040201",
+    "name": "مجمع اهلاك - السيارات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0402"
+  },
+  {
+    "code": "040202",
+    "name": "مجمع اهلاك - الالات والمعدات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0402"
+  },
+  {
+    "code": "040203",
+    "name": "مجمع اهلاك - الاخشاب",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0402"
+  },
+  {
+    "code": "040204",
+    "name": "مجمع اهلاك - المكاتب الجاهزة",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0402"
+  },
+  {
+    "code": "040205",
+    "name": "مجمع اهلاك - اجهزة الكمبيوتر والطابعات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0402"
+  },
+  {
+    "code": "040206",
+    "name": "مجمع اهلاك - الأثاث والمفروشات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0402"
+  },
+  {
+    "code": "040207",
+    "name": "مجمع اهلاك - الديكورات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0402"
+  },
+  {
+    "code": "040208",
+    "name": "مجمع اهلاك - الشدة المعدنية",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0402"
+  },
+  {
+    "code": "05",
+    "name": "حقوق الملكية",
+    "level": 1,
+    "isPosting": false,
+    "parentCode": null
+  },
+  {
+    "code": "0501",
+    "name": "راس المال",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "05"
+  },
+  {
+    "code": "050101",
+    "name": "راس المال - نواف عبدالعزيز على الغفيض",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0501"
+  },
+  {
+    "code": "050102",
+    "name": "راس المال - شركة كيان السعودية",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0501"
+  },
+  {
+    "code": "050103",
+    "name": "راس المال - احمد إسماعيل الدموهى",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0501"
+  },
+  {
+    "code": "0502",
+    "name": "الاحتياطي النظامى",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "05"
+  },
+  {
+    "code": "050201",
+    "name": "الاحتياطى النظامى",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0502"
+  },
+  {
+    "code": "0503",
+    "name": "جارى الشركاء",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "05"
+  },
+  {
+    "code": "050301",
+    "name": "جارى الشريك - نواف عبدالعزيز على الغفيض",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0503"
+  },
+  {
+    "code": "050302",
+    "name": "جارى الشريك - شركة كيان السعودية",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0503"
+  },
+  {
+    "code": "050303",
+    "name": "جارى الشريك - احمد اسماعيل الدموهى",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0503"
+  },
+  {
+    "code": "0504",
+    "name": "الارباح",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "05"
+  },
+  {
+    "code": "050402",
+    "name": "الارباح المرحله",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0504"
+  },
+  {
+    "code": "050403",
+    "name": "ارباح وخسائر اعادة تقييم منافع الموظفين",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0504"
+  },
+  {
+    "code": "06",
+    "name": "التكاليف",
+    "level": 1,
+    "isPosting": false,
+    "parentCode": null
+  },
+  {
+    "code": "0601",
+    "name": "تكاليف العمليات",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "06"
+  },
+  {
+    "code": "060101",
+    "name": "المواد والمصنعيات",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010101",
+    "name": "المواد والخامات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060101"
+  },
+  {
+    "code": "06010102",
+    "name": "مصنعيات مقاولين الباطن",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060101"
+  },
+  {
+    "code": "060102",
+    "name": "الرواتب والاجور وما فى حكمها",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010201",
+    "name": "الراتب الاساسى  - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060102"
+  },
+  {
+    "code": "06010202",
+    "name": "بدل سكن - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060102"
+  },
+  {
+    "code": "06010203",
+    "name": "بدلات اخرى - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060102"
+  },
+  {
+    "code": "06010204",
+    "name": "اضافى - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060102"
+  },
+  {
+    "code": "06010205",
+    "name": "مكافات وحوافز - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060102"
+  },
+  {
+    "code": "06010206",
+    "name": "تعويض انهاء الخدمات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060102"
+  },
+  {
+    "code": "06010207",
+    "name": "بدل طبيعة عمل - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060102"
+  },
+  {
+    "code": "06010208",
+    "name": "بدل الاجازه - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060102"
+  },
+  {
+    "code": "060103",
+    "name": "تاجير المعدات والسيارات",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010301",
+    "name": "ايجار معدات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060103"
+  },
+  {
+    "code": "06010302",
+    "name": "ايجار سيارات - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060103"
+  },
+  {
+    "code": "060104",
+    "name": "الرسوم الحكومية",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010401",
+    "name": "رسوم تجديد اقامات - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010402",
+    "name": "رسوم رخص العمل - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010403",
+    "name": "رسوم خروج وعودة  - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010404",
+    "name": "رسوم نقل كفالات - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010405",
+    "name": "رسوم تاشيرات العمل - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010406",
+    "name": "اشتراك هيئة المهندسين - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010407",
+    "name": "رسوم رخصة البناء",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010408",
+    "name": "رسوم العداد المؤقت",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010409",
+    "name": "رسوم عدادات الكهرباء الدائم",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010410",
+    "name": "رسوم عداد المياه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010411",
+    "name": "رسوم عداد الصرف الصحى",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010412",
+    "name": "رسوم تصريف مياه جوفيه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010413",
+    "name": "رسوم الهيئة السعودية للمقاولين",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010414",
+    "name": "رسوم فرز",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "06010415",
+    "name": "رسوم قرار مساحى",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060104"
+  },
+  {
+    "code": "060105",
+    "name": "التامين على المشاريع",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010501",
+    "name": "تامين العيوب الخفية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060105"
+  },
+  {
+    "code": "06010502",
+    "name": "الفحص الفنى",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060105"
+  },
+  {
+    "code": "06010503",
+    "name": "تامين مخاطر المقاولين",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060105"
+  },
+  {
+    "code": "060106",
+    "name": "الايجارات",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010601",
+    "name": "ايجار سكن الموظفين",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060106"
+  },
+  {
+    "code": "06010602",
+    "name": "ايجار مصنع الالمونيوم",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060106"
+  },
+  {
+    "code": "060107",
+    "name": "المحروقات",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010701",
+    "name": "محروقات وزيت معدات - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060107"
+  },
+  {
+    "code": "06010702",
+    "name": "محروقات وزيت سيارات - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060107"
+  },
+  {
+    "code": "060108",
+    "name": "الرسوم الهندسية والاستشارية",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010801",
+    "name": "اشراف وتقرير هندسى",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060108"
+  },
+  {
+    "code": "06010802",
+    "name": "رسومات هندسية تصاميم ومخططات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060108"
+  },
+  {
+    "code": "06010803",
+    "name": "اتعاب حصر هندسي",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060108"
+  },
+  {
+    "code": "06010804",
+    "name": "اتعاب استخراج رخصة البناء",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060108"
+  },
+  {
+    "code": "06010805",
+    "name": "اتعاب قرار مساحى",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060108"
+  },
+  {
+    "code": "06010806",
+    "name": "اتعاب فرز",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060108"
+  },
+  {
+    "code": "060109",
+    "name": "تذاكر السفر والانتقالات",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06010901",
+    "name": "تذاكر سفر - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060109"
+  },
+  {
+    "code": "06010902",
+    "name": "انتقالات - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060109"
+  },
+  {
+    "code": "060110",
+    "name": "منافع الموظفين",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06011001",
+    "name": "بدل نهاية الخدمه - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060110"
+  },
+  {
+    "code": "060111",
+    "name": "المصروفات المكتبية",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06011101",
+    "name": "ادوات مكتبيه ومطبوعات  - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060111"
+  },
+  {
+    "code": "060112",
+    "name": "الصيانة والاصلاح",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06011201",
+    "name": "صيانة معدات - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060112"
+  },
+  {
+    "code": "06011202",
+    "name": "صيانة سيارات  - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060112"
+  },
+  {
+    "code": "06011203",
+    "name": "صيانة عامه  - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060112"
+  },
+  {
+    "code": "06011204",
+    "name": "صيانة برامج",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060112"
+  },
+  {
+    "code": "060113",
+    "name": "الهاتف والبريد",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06011301",
+    "name": "انترنت  - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060113"
+  },
+  {
+    "code": "06011302",
+    "name": "بريد وارساليات - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060113"
+  },
+  {
+    "code": "060114",
+    "name": "مختبرات",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0601"
+  },
+  {
+    "code": "06011401",
+    "name": "ضيافة - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011402",
+    "name": "مياه شرب - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011403",
+    "name": "مواد نظافة  - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011404",
+    "name": "كشف وفحص طبى وعلاج - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011405",
+    "name": "ماموريات خارجية ورحلات عمل",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011406",
+    "name": "ايجار فنادق - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011407",
+    "name": "تجهيزات مكاتب المواقع",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011408",
+    "name": "تجهيزات سكن الموظفين",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011409",
+    "name": "كراسات الشروط والمناقصات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011410",
+    "name": "غرامات ومخالفات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011411",
+    "name": "مختبرات خارجيه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011412",
+    "name": "مصروفات متنوعه - عمليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "06011413",
+    "name": "خصم مسموح به",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060114"
+  },
+  {
+    "code": "0602",
+    "name": "المصروفات العمومية والإدارية",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "06"
+  },
+  {
+    "code": "060201",
+    "name": "الرواتب والاجور وما فى حكمها",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "06020101",
+    "name": "الراتب الاساسى - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060201"
+  },
+  {
+    "code": "06020102",
+    "name": "بدل سكن - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060201"
+  },
+  {
+    "code": "06020103",
+    "name": "بدلات اخرى - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060201"
+  },
+  {
+    "code": "06020104",
+    "name": "اضافى - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060201"
+  },
+  {
+    "code": "06020105",
+    "name": "مكافات وحوافز - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060201"
+  },
+  {
+    "code": "06020106",
+    "name": "بدل الاجازه - اداريه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060201"
+  },
+  {
+    "code": "060202",
+    "name": "مصاريف بنكية",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "06020201",
+    "name": "عمولات بنكية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060202"
+  },
+  {
+    "code": "06020202",
+    "name": "رسوم وعمولات التسهيلات البنكية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060202"
+  },
+  {
+    "code": "060203",
+    "name": "التامينات الاجتماعية",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "06020301",
+    "name": "التامينات الاجتماعيه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060203"
+  },
+  {
+    "code": "060204",
+    "name": "التامين الطبى",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0602"
+  },
+  {
+    "code": "06020401",
+    "name": "التامين الطبى",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0602"
+  },
+  {
+    "code": "060205",
+    "name": "الرسوم الحكومية",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "06020501",
+    "name": "رسوم تجديد اقامات - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060205"
+  },
+  {
+    "code": "06020502",
+    "name": "رسوم رخص العمل - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060205"
+  },
+  {
+    "code": "06020503",
+    "name": "رسوم خروج وعودة - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060205"
+  },
+  {
+    "code": "06020504",
+    "name": "رسوم نقل كفالات - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060205"
+  },
+  {
+    "code": "06020505",
+    "name": "رسوم تغيير المهن",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060205"
+  },
+  {
+    "code": "06020506",
+    "name": "اشتراك هيئة المحاسبين - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060205"
+  },
+  {
+    "code": "06020507",
+    "name": "رسوم حكومية ومروريه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060205"
+  },
+  {
+    "code": "06020508",
+    "name": "رسوم تصديقات وتفاويض",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060205"
+  },
+  {
+    "code": "060206",
+    "name": "الكهرباء والمياه",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "06020601",
+    "name": "فواتير الكهرباء والمياه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060206"
+  },
+  {
+    "code": "06020602",
+    "name": "فواتير المياه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060206"
+  },
+  {
+    "code": "060207",
+    "name": "الايجارات",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602018",
+    "name": "ايجار المكاتب - الادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060207"
+  },
+  {
+    "code": "0602024",
+    "name": "ايجار سيارات  - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060207"
+  },
+  {
+    "code": "060208",
+    "name": "الاتعاب المهنية",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602029",
+    "name": "الاتعاب المهنية",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0602"
+  },
+  {
+    "code": "060209",
+    "name": "منافع الموظفين",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602007",
+    "name": "بدل نهاية الخدمه - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060209"
+  },
+  {
+    "code": "0602036",
+    "name": "مصروف فوائد الاكتوارى",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060209"
+  },
+  {
+    "code": "060210",
+    "name": "تامين السيارات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602021",
+    "name": "تامين السيارات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0602"
+  },
+  {
+    "code": "060211",
+    "name": "تذاكر السفر والانتقالات",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602016",
+    "name": "تذاكر سفر  - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060211"
+  },
+  {
+    "code": "0602017",
+    "name": "انتقالات  - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060211"
+  },
+  {
+    "code": "060212",
+    "name": "الهاتف والبريد",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602030",
+    "name": "بريد وارساليات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060212"
+  },
+  {
+    "code": "0602039",
+    "name": "الهاتف والانترنت",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060212"
+  },
+  {
+    "code": "060213",
+    "name": "الدعايا والتسويق",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602033",
+    "name": "دعايا واعلان",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060213"
+  },
+  {
+    "code": "060214",
+    "name": "الصيانة والاصلاح",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602023",
+    "name": "صيانة سيارات - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060214"
+  },
+  {
+    "code": "0602031",
+    "name": "صيانة عامه وبرامج",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060214"
+  },
+  {
+    "code": "060215",
+    "name": "اخرى - ادارية",
+    "level": 3,
+    "isPosting": false,
+    "parentCode": "0602"
+  },
+  {
+    "code": "0602022",
+    "name": "محروقات - ادارية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602025",
+    "name": "مخالفات مروريه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602027",
+    "name": "ضيافه ومواد نظافة المكتب",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602028",
+    "name": "ادوات مكتبيه ومطبوعات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602032",
+    "name": "مصروفات متنوعه",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602034",
+    "name": "الزى الموحد يونيفورم",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602035",
+    "name": "مصروف فروقات زكوية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602041",
+    "name": "دورات تدريبية",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602043",
+    "name": "برمجة اجهزة كمبيوتر سنترالات",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602044",
+    "name": "اشتراكات برامج",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0602045",
+    "name": "مصروفات توظيف",
+    "level": 4,
+    "isPosting": true,
+    "parentCode": "060215"
+  },
+  {
+    "code": "0604",
+    "name": "الاهلاك",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "06"
+  },
+  {
+    "code": "060401",
+    "name": "اهلاك - السيارات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0604"
+  },
+  {
+    "code": "060402",
+    "name": "اهلاك - الالات والمعدات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0604"
+  },
+  {
+    "code": "060403",
+    "name": "اهلاك - الاخشاب",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0604"
+  },
+  {
+    "code": "060404",
+    "name": "اهلاك - المكاتب الجاهزة",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0604"
+  },
+  {
+    "code": "060405",
+    "name": "اهلاك - اجهزة الكمبيوتر والطابعات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0604"
+  },
+  {
+    "code": "060406",
+    "name": "اهلاك - الأثاث والمفروشات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0604"
+  },
+  {
+    "code": "060407",
+    "name": "اهلاك - الديكورات",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0604"
+  },
+  {
+    "code": "060408",
+    "name": "اهلاك - الشدة المعدنية",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0604"
+  },
+  {
+    "code": "0605",
+    "name": "الزكاة وضريبة الدخل",
+    "level": 2,
+    "isPosting": false,
+    "parentCode": "06"
+  },
+  {
+    "code": "060501",
+    "name": "الزكاة",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0605"
+  },
+  {
+    "code": "060502",
+    "name": "ضريبة الدخل",
+    "level": 3,
+    "isPosting": true,
+    "parentCode": "0605"
+  },
+  {
+    "code": "07",
+    "name": "الايرادات",
+    "level": 1,
+    "isPosting": false,
+    "parentCode": null
+  },
+  {
+    "code": "07001",
+    "name": "ايرادات مشاريع المقاولات",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "07"
+  },
+  {
+    "code": "07002",
+    "name": "ايرادات اخرى",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "07"
+  },
+  {
+    "code": "07003",
+    "name": "ارباح وخسائر راسمالية",
+    "level": 2,
+    "isPosting": true,
+    "parentCode": "07"
+  }
+]
